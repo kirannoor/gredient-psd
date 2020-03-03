@@ -1,0 +1,18 @@
+Liner gradient sites
+https://uigradients.com/#Alihossein
+https://mycolor.space/gradient?ori=to+right+top&hex=%23370505&hex2=%23A8EB12&sub=1
+
+header button border
+color : ff4eb5 piunk shade
+ff9c69 orange shade
+ li color 16px regular #74727a Myriad Pro
+
+<div class="container-fluid">
+ <div class="container">
+   <div class="row">
+	<div class="col-sm-12">
+		
+        </div>
+   </div>
+ </div>
+</div>
